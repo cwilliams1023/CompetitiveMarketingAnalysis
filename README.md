@@ -4,7 +4,7 @@ Here is the python script used for the exploratory data analysis for VanArsdel's
 
 Libraries Used: Pandas and Matplotlib
 
-Tools Used: Python
+Tools Used: Python, PowerBI
 
 Sources for this project include CSV files.
 5 Tables: Date, Geo, Manufacturer, Product, and Sentiment
